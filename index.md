@@ -1,10 +1,12 @@
 ## Welcome To SDS Helpers!
+
+A community of past and current Scratch SDS Helpers! 
+
 ## Important Links
 - [Scratch Studio](https://scratch.mit.edu/studios/31464146/)
+- [SDS Info](https://en.scratch-wiki.info/wiki/Scratch_Design_Studio)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Who?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
