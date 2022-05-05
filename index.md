@@ -1,4 +1,4 @@
-## Welcome To SDS Helpers!
+## Welcome To SDS Helpers! 
 
 A community of past and current Scratch SDS Helpers! 
 
@@ -14,4 +14,9 @@ A community of past and current Scratch SDS Helpers!
 
 ➼[The current SDS: Road Trip](https://scratch.mit.edu/studios/31361222)  
 ➼The current SDS ends approximately on **May 10-20th (6-7 weeks from March 29th).**
+
+
+### Contributers/User Role
+
+
 
