@@ -1,5 +1,5 @@
 ## Welcome To SDS Helpers!
-
+<link rel="shortcut icon" type="image/png" href="Screenshot 2022-05-05 5.38.41 PM.png">
 A community of past and current Scratch SDS Helpers! 
 
 ## Important Links
