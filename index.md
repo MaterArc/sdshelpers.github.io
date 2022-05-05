@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome To SDS Helpers!
 
-You can use the [editor on GitHub](https://github.com/MaterArc/sdshelpers.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Important Links
+- [Scratch Studio](https://scratch.mit.edu/studios/31464146/)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
