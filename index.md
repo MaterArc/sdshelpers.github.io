@@ -1,5 +1,4 @@
 ## Welcome To SDS Helpers!
-
 ## Important Links
 - [Scratch Studio](https://scratch.mit.edu/studios/31464146/)
 
