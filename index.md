@@ -47,3 +47,14 @@ leahcimto - SDS Curator
 
 
 
+
+***Note: This is not an official Scratch Team website, and is currently not run by any of their member(s).***
+
+-------------------------------------------------
+Copyright © 2022 SDS Helpers. All rights reserved
+
+
+
+
+
+
