@@ -33,13 +33,13 @@ A community of past and current Scratch SDS Helpers!
 [2GS6](https://scratch.mit.edu/users/2GS6/) - SDS Curator
 
 ![71495487_90x90_18](https://user-images.githubusercontent.com/105017592/167267906-7b74e986-a716-45b8-9f77-534298f5c250.jpeg)
-[nightmxre-](https://scratch.mit.edu/users/nightmxre-)- SDS Curator
+[nightmxre-](https://scratch.mit.edu/users/nightmxre-) - SDS Curator
 
 ![65816800_90x90_18](https://user-images.githubusercontent.com/105017592/167267969-a43ebb12-c970-416d-ad42-79d2a2062932.gif)
 [Thinkright20man](https://scratch.mit.edu/users/Thinkright20man/) - SDS Curator
 
 ![72310193_90x90_18](https://user-images.githubusercontent.com/105017592/167268036-fe2ab9dc-2c9d-427e-9ae3-629d3c407334.png)
-[ScratchTag-](https://scratch.mit.edu/users/ScratchTag-/) - SDS Curator
+[ScratchTag-](https://scratch.mit.edu/users/ScratchTag-/)  - SDS Curator
 
 ![Screenshot_2022-05-07_2 58 08_PM_3_48](https://user-images.githubusercontent.com/105017592/167268269-83ba2365-8beb-4c50-936a-947de93dde97.png)
 [leahcimto](https://scratch.mit.edu/users/leahcimto/) - SDS Curator
