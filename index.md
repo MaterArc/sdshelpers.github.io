@@ -44,22 +44,6 @@ ScratchTag- - SDS Curator
 ![Screenshot_2022-05-07_2 58 08_PM_3_48](https://user-images.githubusercontent.com/105017592/167268269-83ba2365-8beb-4c50-936a-947de93dde97.png)
 leahcimto - SDS Curator
 
-#### Curators:
-
--
--
--
--
--
--
--
--
--
--
-
-
-
-
 
 ***Note: This is not an official Scratch Team website, and is currently not run by any of their member(s).***
 
