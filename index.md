@@ -4,7 +4,7 @@
 A community of past and current Scratch SDS Helpers! 
 
 ## Important Links
-- [Scratch Studio](https://scratch.mit.edu/studios/31464146/)
+- [SDS Helpers Studio](https://scratch.mit.edu/studios/31464146/)
 - [SDS Info](https://en.scratch-wiki.info/wiki/Scratch_Design_Studio)
  
 ## About
