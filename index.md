@@ -1,3 +1,5 @@
+![Screenshot 2022-05-07 3 18 45 PM](https://user-images.githubusercontent.com/105017592/167268765-6c26e868-bce4-4022-ba8c-6a18fabfc47d.png)
+
 ## Welcome To SDS Helpers! 
 
 A community of past and current Scratch SDS Helpers! 
@@ -40,9 +42,18 @@ ScratchTag- - SDS Curator
 ![Screenshot_2022-05-07_2 58 08_PM_3_48](https://user-images.githubusercontent.com/105017592/167268269-83ba2365-8beb-4c50-936a-947de93dde97.png)
 leahcimto - SDS Curator
 
+#### Curators:
 
-
-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 
 
 
