@@ -67,8 +67,3 @@ A community of past and current Scratch SDS Helpers!
 -------------------------------------------------
 Copyright © 2022 SDS Helpers. All rights reserved
 
-
-
-
-
-
