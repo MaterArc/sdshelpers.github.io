@@ -21,7 +21,9 @@ A community of past and current Scratch SDS Helpers!
 
 ➼[The current SDS: Road Trip](https://scratch.mit.edu/studios/31361222)
 
-[![Screenshot_2022-05-07_3 22 56_PM_4_72](https://user-images.githubusercontent.com/105017592/167299365-77ac1d52-021e-493a-915a-746e013b7f79.png)](https://scratch.mit.edu/studios/31361222)
+[![e7e4ffa06fd9bd53a24b266d035c24a9_27](https://user-images.githubusercontent.com/105017592/167300825-ba978eaf-f89b-4364-b611-eec9a655b38b.png)]((https://scratch.mit.edu/studios/31361222))
+
+
 
 
 ➼The current SDS ends approximately on **May 10-20th (6-7 weeks from March 29th).**
