@@ -50,8 +50,10 @@ A community of past and current Scratch SDS Helpers!
 ![72310193_90x90_18](https://user-images.githubusercontent.com/105017592/167268036-fe2ab9dc-2c9d-427e-9ae3-629d3c407334.png)
 [ScratchTag-](https://scratch.mit.edu/users/ScratchTag-/)  - SDS Curator
 
+#### Contributors:
+
 ![Screenshot_2022-05-07_2 58 08_PM_3_48](https://user-images.githubusercontent.com/105017592/167268269-83ba2365-8beb-4c50-936a-947de93dde97.png)
-[leahcimto](https://scratch.mit.edu/users/leahcimto/) - SDS Curator
+[leahcimto](https://scratch.mit.edu/users/leahcimto/) - SDS Curator and Website Contributor
 
 
 ***Note: This is not an official Scratch Team website, and is currently not run by any of their member(s).***
