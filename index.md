@@ -25,6 +25,13 @@ A community of past and current Scratch SDS Helpers!
 
 ### News:
 
+May 15th ➼
+ **Goldensun_Silverdrop chosen as the 7th current SDS helper.**
+
+
+
+
+
 ➼[The current SDS: Road Trip](https://scratch.mit.edu/studios/31361222)
 
 [![e7e4ffa06fd9bd53a24b266d035c24a9_27](https://user-images.githubusercontent.com/105017592/167300825-ba978eaf-f89b-4364-b611-eec9a655b38b.png)]((https://scratch.mit.edu/studios/31361222))
