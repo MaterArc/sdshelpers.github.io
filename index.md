@@ -28,7 +28,8 @@ A community of past and current Scratch SDS Helpers!
 
 ➼[The current SDS: Silhouettes & Shadows](https://scratch.mit.edu/studios/31659696)
 
-[![31659696_170x100 (1)](https://user-images.githubusercontent.com/105017592/169899868-b28e903b-6073-4fe3-a748-efb4a350f226.png)](https://scratch.mit.edu/studios/31659696)
+[![SilhouettesShadowsla_50](https://user-images.githubusercontent.com/105017592/169904432-cd6ad4c5-6cb7-4ae7-a013-e397c9fde1cc.png)](https://scratch.mit.edu/studios/31659696)
+
 
 
 
