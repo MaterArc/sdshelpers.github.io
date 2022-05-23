@@ -25,17 +25,14 @@ A community of past and current Scratch SDS Helpers!
 
 ### News:
 
-May 15th ➼
 
+➼[The current SDS: Silhouettes & Shadows](https://scratch.mit.edu/studios/31659696)
 
-➼[The current SDS: Road Trip](https://scratch.mit.edu/studios/31361222)
-
-[![e7e4ffa06fd9bd53a24b266d035c24a9_27](https://user-images.githubusercontent.com/105017592/167300825-ba978eaf-f89b-4364-b611-eec9a655b38b.png)]((https://scratch.mit.edu/studios/31361222))
-
+[![31659696_170x100 (1)](https://user-images.githubusercontent.com/105017592/169899868-b28e903b-6073-4fe3-a748-efb4a350f226.png)](https://scratch.mit.edu/studios/31659696)
 
 
 
-➼The current SDS ends approximately on **May 10-20th (6-7 weeks from March 29th).**
+➼The current SDS ends approximately on **July 4th - 11th (6-7 weeks from May 23).**
 
 
 ### Contributers/User Role
