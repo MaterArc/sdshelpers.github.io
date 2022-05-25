@@ -57,9 +57,6 @@ A community of past and current Scratch SDS Helpers!
 ![72310193_90x90_18](https://user-images.githubusercontent.com/105017592/167268036-fe2ab9dc-2c9d-427e-9ae3-629d3c407334.png)
 [ScratchTag-](https://scratch.mit.edu/users/ScratchTag-/)  - SDS Curator
 
-####  Curators:
-
-
 
 #### Contributors:
 
