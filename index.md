@@ -23,7 +23,7 @@ A community of past and current Scratch SDS Helpers!
 ## About
 » This group allows everyone who has been a helper or currently is a helper in the SDS to talk with each other, discuss SDS-related questions, or just to be acknowledged as an SDS Helper! «
 
-### News:
+### News: 
 
 
 ➼[The current SDS: Silhouettes & Shadows](https://scratch.mit.edu/studios/31659696)
