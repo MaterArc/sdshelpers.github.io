@@ -1,3 +1,6 @@
+<link rel="icon" href="PATH/TO/Screenshot 2022-05-07 4.33.45 PM (1).png" type="image/x-icon">
+</head>
+
 [![Scratchlogo svg_28](https://user-images.githubusercontent.com/105017592/167304570-fc95ce77-370a-4cb7-836d-cca53dbeca7d.png)](https://scratch.mit.edu/studios/31464146)
 
 
