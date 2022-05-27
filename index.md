@@ -32,10 +32,11 @@ A community of past and current Scratch SDS Helpers!
 
 [![SilhouettesShadowsla_50](https://user-images.githubusercontent.com/105017592/169904432-cd6ad4c5-6cb7-4ae7-a013-e397c9fde1cc.png)](https://scratch.mit.edu/studios/31659696)
 
-
-
-
 ➼The current SDS ends approximately on **July 4th - 11th (6-7 weeks from May 23).**
+
+<sub><sub>*Current Theme proposed by [@Aloeheart6](https://scratch.mit.edu/users/Aloeheart6/) and [@babe_ri400](https://scratch.mit.edu/users/babe_ri400/)*</sub></sub>
+
+
 
 
 ### Contributers/User Role
