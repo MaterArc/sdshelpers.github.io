@@ -5,15 +5,6 @@
 
 
 
-
-[![Screenshot 2022-05-08 10 03 11 AM](https://user-images.githubusercontent.com/105017592/167299934-b82c6c64-27b7-4a85-a2df-f0e92de6b7a0.png)](https://github.com/MaterArc)[![Screenshot 2022-05-08 10 04 41 AM](https://user-images.githubusercontent.com/105017592/167300356-3b51f58b-5cb9-4cbf-8d29-3d825c827d70.png)](https://github.com/MaterArc/sdshelpers.github.io/subscription) [![Screenshot 2022-05-08 10 14 34 AM](https://user-images.githubusercontent.com/105017592/167300393-455517e9-d8ca-4cca-94a7-0879628d3430.png)](https://github.com/MaterArc/sdshelpers.github.io) [![Screenshot 2022-05-08 10 16 00 AM](https://user-images.githubusercontent.com/105017592/167300452-b002d811-1e9f-44ca-b753-496caca4d8cf.png)](https://github.com/MaterArc/sdshelpers.github.io/issues)
-
-
-
-
-
-
-
 ## Welcome To SDS Helpers! 
 
 A community of past and current Scratch SDS Helpers! 
@@ -28,13 +19,16 @@ A community of past and current Scratch SDS Helpers!
 ### News: 
 
 
-➼[The current SDS: Silhouettes & Shadows](https://scratch.mit.edu/studios/31659696)
+#### ➼[The current SDS: Underground](https://scratch.mit.edu/studios/31865836)
 
-[![SilhouettesShadowsla_50](https://user-images.githubusercontent.com/105017592/169904432-cd6ad4c5-6cb7-4ae7-a013-e397c9fde1cc.png)](https://scratch.mit.edu/studios/31659696)
+![62cde0422528d6 93957103Processed](https://user-images.githubusercontent.com/105017592/178594122-c00e1164-8570-400c-9def-9ecd0498c7d5.png)
 
-➼The current SDS ends approximately between **July 4th - 11th (6-7 weeks from May 23).**
 
-<sub><sub>*Current Theme proposed by [@Aloeheart6](https://scratch.mit.edu/users/Aloeheart6/) and [@babe_ri400](https://scratch.mit.edu/users/babe_ri400/)*</sub></sub>
+
+
+➼The current SDS ends approximately between **August 23rd - 30th (6-7 weeks from July 12th).**
+
+<sub><sub>*Current Theme proposed by [@sihan7777777](https://scratch.mit.edu/users/sihan7777777/)*</sub></sub>
 
 
 
