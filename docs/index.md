@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+<link rel="icon" href="PATH/TO/Screenshot 2022-05-07 4.33.45 PM (1).png" type="image/x-icon">
 
-You can use the [editor on GitHub](https://github.com/MaterArc/sdshelpers.github.io/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+[![Scratchlogo svg_28](https://user-images.githubusercontent.com/105017592/167304570-fc95ce77-370a-4cb7-836d-cca53dbeca7d.png)](https://scratch.mit.edu/studios/31464146)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Welcome To SDS Helpers! 
 
-# Header 1
-## Header 2
-### Header 3
+A community of past and current Scratch SDS Helpers! 
 
-- Bulleted
-- List
+## Important Links
+- [SDS Helpers Studio](https://scratch.mit.edu/studios/31464146/)
+- [SDS Info](https://en.scratch-wiki.info/wiki/Scratch_Design_Studio)
+ 
+## About
+» This group allows everyone who has been a helper or currently is a helper in the SDS to talk with each other, discuss SDS-related questions, or just to be acknowledged as an SDS Helper! «
 
-1. Numbered
-2. List
+### News: 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+#### ➼[The current SDS: Underground](https://scratch.mit.edu/studios/31865836)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![62cde0422528d6 93957103Processed](https://user-images.githubusercontent.com/105017592/178594122-c00e1164-8570-400c-9def-9ecd0498c7d5.png)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MaterArc/sdshelpers.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+➼The current SDS ends approximately between **August 23rd - 30th (6-7 weeks from July 12th).**
+
+<sub><sub>*Current Theme proposed by [@sihan7777777](https://scratch.mit.edu/users/sihan7777777/)*</sub></sub>
+
+
+
+
+### Contributers/User Role
+
+#### Managers:
+![67144386_90x90_3_25](https://user-images.githubusercontent.com/105017592/167263100-f1f1616e-ae8e-4cfc-9305-c20c138960f0.png)
+[MaterArc](https://scratch.mit.edu/users/MaterArc/) - Owner and Founder Of SDS Helpers!
+
+![37820182_90x90_1_18](https://user-images.githubusercontent.com/105017592/167263193-a21a6309-cdfc-4d9b-9250-be0c50fbf6c2.jpeg)
+[Euglena73](https://scratch.mit.edu/users/Euglena73/) - SDS Curator
+
+![52329708_90x90_1_18](https://user-images.githubusercontent.com/105017592/167263305-dc80f88e-70a3-4f54-a745-e707179fd1a1.jpeg)
+[2GS6](https://scratch.mit.edu/users/2GS6/) - SDS Curator
+
+![71495487_90x90_18](https://user-images.githubusercontent.com/105017592/167267906-7b74e986-a716-45b8-9f77-534298f5c250.jpeg)
+[nightmxre-](https://scratch.mit.edu/users/nightmxre-) - SDS Curator
+
+![65816800_90x90_18](https://user-images.githubusercontent.com/105017592/167267969-a43ebb12-c970-416d-ad42-79d2a2062932.gif)
+[Thinkright20man](https://scratch.mit.edu/users/Thinkright20man/) - SDS Curator
+
+![72310193_90x90_18](https://user-images.githubusercontent.com/105017592/167268036-fe2ab9dc-2c9d-427e-9ae3-629d3c407334.png)
+[ScratchTag-](https://scratch.mit.edu/users/ScratchTag-/)  - SDS Curator
+
+
+#### Contributors:
+
+![Screenshot_2022-05-07_2 58 08_PM_3_48](https://user-images.githubusercontent.com/105017592/167268269-83ba2365-8beb-4c50-936a-947de93dde97.png)
+[leahcimto](https://scratch.mit.edu/users/leahcimto/) - SDS Curator and Website Contributor
+
+
+***Note: This is not an official Scratch Team website, and is currently not run by any of their member(s).***
+
+-------------------------------------------------
+Copyright © 2022 SDS Helpers. All rights reserved
+
