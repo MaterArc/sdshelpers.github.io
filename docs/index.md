@@ -21,7 +21,8 @@ A community of past and current Scratch SDS Helpers!
 
 #### ➼[The current SDS: Underground](https://scratch.mit.edu/studios/31865836)
 
-![62cde0422528d6 93957103Processed](https://user-images.githubusercontent.com/105017592/178594122-c00e1164-8570-400c-9def-9ecd0498c7d5.png)
+[<img width="427" alt="Screen Shot 2022-07-13 at 9 05 53 PM" src="https://user-images.githubusercontent.com/105017592/178863332-91948b7e-05b7-43b6-9294-a87bda79f61b.png">](https://scratch.mit.edu/studios/31865836/)
+
 
 
 
