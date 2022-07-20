@@ -7,7 +7,7 @@
 
 ## Welcome To SDS Helpers! 
 
-We community of past and present SDS Helpers
+We are a community of past and present SDS Helpers
 
 ## Important Links
 - [Our Studio](https://scratch.mit.edu/studios/31464146/)
@@ -30,7 +30,7 @@ We community of past and present SDS Helpers
 
 ➼The current SDS ends approximately between **August 23rd - 30th (6-7 weeks from July 12th).**
 
-<sub><sub>*The Current Theme was proposed by [@sihan7777777](https://scratch.mit.edu/users/sihan7777777/)*</sub></sub>
+<sub><sub>*The Current Theme was proposed by [sihan7777777](https://scratch.mit.edu/users/sihan7777777/)*</sub></sub>
 
 
 
