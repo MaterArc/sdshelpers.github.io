@@ -38,29 +38,29 @@ We are a community of past and present SDS Helpers
 ### Contributers/User Role
 
 #### Managers:
-![67144386_60x60_1_5_28](https://user-images.githubusercontent.com/105017592/180075895-3ea5677f-4739-4688-9671-2a48e17e59be.png)
+[![67144386_60x60_1_5_28](https://user-images.githubusercontent.com/105017592/180075895-3ea5677f-4739-4688-9671-2a48e17e59be.png)](https://scratch.mit.edu/users/MaterArc/)
 [MaterArc](https://scratch.mit.edu/users/MaterArc/) - Owner and Founder of SDS Helpers
 
 
-![37820182_90x90_5_18](https://user-images.githubusercontent.com/105017592/180074841-970a2b6a-29ff-4498-ab60-3a98943f3079.jpeg)
+[![37820182_90x90_5_18](https://user-images.githubusercontent.com/105017592/180074841-970a2b6a-29ff-4498-ab60-3a98943f3079.jpeg)](https://scratch.mit.edu/users/Euglena73/)
 [Euglena73](https://scratch.mit.edu/users/Euglena73/) - SDS Curator
 
 
-![71495487_90x90_18](https://user-images.githubusercontent.com/105017592/167267906-7b74e986-a716-45b8-9f77-534298f5c250.jpeg)
+[![71495487_90x90_18](https://user-images.githubusercontent.com/105017592/167267906-7b74e986-a716-45b8-9f77-534298f5c250.jpeg)](https://scratch.mit.edu/users/nightmxre-)
 [nightmxre-](https://scratch.mit.edu/users/nightmxre-) - SDS Curator
 
 
-![72310193_90x90_18](https://user-images.githubusercontent.com/105017592/167268036-fe2ab9dc-2c9d-427e-9ae3-629d3c407334.png)
+[![72310193_90x90_18](https://user-images.githubusercontent.com/105017592/167268036-fe2ab9dc-2c9d-427e-9ae3-629d3c407334.png)](https://scratch.mit.edu/users/ScratchTag-/)
 [ScratchTag-](https://scratch.mit.edu/users/ScratchTag-/)  - SDS Curator
 
 
 #### Contributors:
 
-![Screenshot_2022-05-07_2 58 08_PM_3_48](https://user-images.githubusercontent.com/105017592/167268269-83ba2365-8beb-4c50-936a-947de93dde97.png)
+[![Screenshot_2022-05-07_2 58 08_PM_3_48](https://user-images.githubusercontent.com/105017592/167268269-83ba2365-8beb-4c50-936a-947de93dde97.png)](https://scratch.mit.edu/users/leahcimto/)
 [leahcimto](https://scratch.mit.edu/users/leahcimto/) - SDS Curator and Website Contributor
 
 
-![84839537_60x60_28](https://user-images.githubusercontent.com/105017592/180089695-1b66a93b-99eb-440e-ad78-b906bddcfa1a.png)
+[![84839537_60x60_28](https://user-images.githubusercontent.com/105017592/180089695-1b66a93b-99eb-440e-ad78-b906bddcfa1a.png)](https://scratch.mit.edu/users/adzboy/)
 [Adzboy](https://scratch.mit.edu/users/adzboy/) - SDS Helper and Website Contributor 
 
 ***Note: This is not an official Scratch Team website, and is not run or endorsed by any of its members.***
