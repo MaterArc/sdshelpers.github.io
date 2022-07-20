@@ -44,14 +44,10 @@ We are a community of past and present SDS Helpers
 ![37820182_90x90_1_18](https://user-images.githubusercontent.com/105017592/167263193-a21a6309-cdfc-4d9b-9250-be0c50fbf6c2.jpeg)
 [Euglena73](https://scratch.mit.edu/users/Euglena73/) - SDS Curator
 
-![52329708_90x90_1_18](https://user-images.githubusercontent.com/105017592/167263305-dc80f88e-70a3-4f54-a745-e707179fd1a1.jpeg)
-[2GS6](https://scratch.mit.edu/users/2GS6/) - SDS Curator
 
 ![71495487_90x90_18](https://user-images.githubusercontent.com/105017592/167267906-7b74e986-a716-45b8-9f77-534298f5c250.jpeg)
 [nightmxre-](https://scratch.mit.edu/users/nightmxre-) - SDS Curator
 
-![65816800_90x90_18](https://user-images.githubusercontent.com/105017592/167267969-a43ebb12-c970-416d-ad42-79d2a2062932.gif)
-[Thinkright20man](https://scratch.mit.edu/users/Thinkright20man/) - SDS Curator
 
 ![72310193_90x90_18](https://user-images.githubusercontent.com/105017592/167268036-fe2ab9dc-2c9d-427e-9ae3-629d3c407334.png)
 [ScratchTag-](https://scratch.mit.edu/users/ScratchTag-/)  - SDS Curator
