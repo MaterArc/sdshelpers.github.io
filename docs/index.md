@@ -20,7 +20,7 @@ We are a community of past and present SDS Helpers
 ### News: 
 
 
-#### ➼[The current SDS: Underground](https://scratch.mit.edu/studios/31865836)
+#### ➼The current SDS: [Underground](https://scratch.mit.edu/studios/31865836)
 
 [<img width="427" alt="Screen Shot 2022-07-13 at 9 05 53 PM" src="https://user-images.githubusercontent.com/105017592/178863332-91948b7e-05b7-43b6-9294-a87bda79f61b.png">](https://scratch.mit.edu/studios/31865836/)
 
@@ -38,10 +38,11 @@ We are a community of past and present SDS Helpers
 ### Contributers/User Role
 
 #### Managers:
-![67144386_90x90_3_25](https://user-images.githubusercontent.com/105017592/167263100-f1f1616e-ae8e-4cfc-9305-c20c138960f0.png)
+![67144386_60x60_1_5_28](https://user-images.githubusercontent.com/105017592/180075895-3ea5677f-4739-4688-9671-2a48e17e59be.png)
 [MaterArc](https://scratch.mit.edu/users/MaterArc/) - Owner and Founder of SDS Helpers
 
-![37820182_90x90_1_18](https://user-images.githubusercontent.com/105017592/167263193-a21a6309-cdfc-4d9b-9250-be0c50fbf6c2.jpeg)
+
+![37820182_90x90_5_18](https://user-images.githubusercontent.com/105017592/180074841-970a2b6a-29ff-4498-ab60-3a98943f3079.jpeg)
 [Euglena73](https://scratch.mit.edu/users/Euglena73/) - SDS Curator
 
 
@@ -63,4 +64,3 @@ We are a community of past and present SDS Helpers
 
 -------------------------------------------------
 Copyright © 2022 SDS Helpers. All rights reserved
-
