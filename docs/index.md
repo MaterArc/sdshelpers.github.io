@@ -60,6 +60,9 @@ We are a community of past and present SDS Helpers
 [leahcimto](https://scratch.mit.edu/users/leahcimto/) - SDS Curator and Website Contributor
 
 
+![84839537_60x60_28](https://user-images.githubusercontent.com/105017592/180089695-1b66a93b-99eb-440e-ad78-b906bddcfa1a.png)
+[Adzboy](https://scratch.mit.edu/users/adzboy/) - SDS Helper and Website Contributor
+
 ***Note: This is not an official Scratch Team website, and is not run or endorsed by any of its members.***
 
 -------------------------------------------------
