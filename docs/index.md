@@ -7,14 +7,15 @@
 
 ## Welcome To SDS Helpers! 
 
-A community of past and current Scratch SDS Helpers! 
+We are a community of past and present SDS Helpers
 
 ## Important Links
-- [SDS Helpers Studio](https://scratch.mit.edu/studios/31464146/)
-- [SDS Info](https://en.scratch-wiki.info/wiki/Scratch_Design_Studio)
+- [Our Studio](https://scratch.mit.edu/studios/31464146/)
+- [About the SDS](https://en.scratch-wiki.info/wiki/Scratch_Design_Studio)
+- [About SDS Curators and Helpers](https://en.scratch-wiki.info/wiki/Scratch_Design_Studio_Curator)
  
 ## About
-» This group allows everyone who has been a helper or currently is a helper in the SDS to talk with each other, discuss SDS-related questions, or just to be acknowledged as an SDS Helper! «
+» This group allows everyone who has previously been a helper or is currently a helper in the Scratch Design Studio to talk with each other, discuss SDS-related topics, or just to be acknowledged as an SDS Helper! «
 
 ### News: 
 
@@ -29,7 +30,7 @@ A community of past and current Scratch SDS Helpers!
 
 ➼The current SDS ends approximately between **August 23rd - 30th (6-7 weeks from July 12th).**
 
-<sub><sub>*Current Theme proposed by [@sihan7777777](https://scratch.mit.edu/users/sihan7777777/)*</sub></sub>
+<sub><sub>*The Current Theme was proposed by [sihan7777777](https://scratch.mit.edu/users/sihan7777777/)*</sub></sub>
 
 
 
@@ -38,7 +39,7 @@ A community of past and current Scratch SDS Helpers!
 
 #### Managers:
 ![67144386_90x90_3_25](https://user-images.githubusercontent.com/105017592/167263100-f1f1616e-ae8e-4cfc-9305-c20c138960f0.png)
-[MaterArc](https://scratch.mit.edu/users/MaterArc/) - Owner and Founder Of SDS Helpers!
+[MaterArc](https://scratch.mit.edu/users/MaterArc/) - Owner and Founder of SDS Helpers
 
 ![37820182_90x90_1_18](https://user-images.githubusercontent.com/105017592/167263193-a21a6309-cdfc-4d9b-9250-be0c50fbf6c2.jpeg)
 [Euglena73](https://scratch.mit.edu/users/Euglena73/) - SDS Curator
@@ -62,7 +63,7 @@ A community of past and current Scratch SDS Helpers!
 [leahcimto](https://scratch.mit.edu/users/leahcimto/) - SDS Curator and Website Contributor
 
 
-***Note: This is not an official Scratch Team website, and is currently not run by any of their member(s).***
+***Note: This is not an official Scratch Team website, and is not run or endorsed by any of its members.***
 
 -------------------------------------------------
 Copyright © 2022 SDS Helpers. All rights reserved
