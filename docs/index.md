@@ -13,6 +13,7 @@ We are a community of past and present SDS Helpers
 - [Our Studio](https://scratch.mit.edu/studios/31464146/)
 - [About the SDS](https://en.scratch-wiki.info/wiki/Scratch_Design_Studio)
 - [About SDS Curators and Helpers](https://en.scratch-wiki.info/wiki/Scratch_Design_Studio_Curator)
+- [How to help in the SDS](https://scratch.mit.edu/projects/413689067/)
  
 ## About
 » This group allows everyone who has previously been a helper or is currently a helper in the Scratch Design Studio to talk with each other, discuss SDS-related topics, or just to be acknowledged as an SDS Helper! «
