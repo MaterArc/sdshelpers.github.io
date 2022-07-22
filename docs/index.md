@@ -16,14 +16,15 @@ We are a community of past and present SDS Helpers
 - [How to help in the SDS](https://scratch.mit.edu/projects/413689067/)
  
 ## About
-» This group allows everyone who has previously been a helper or is currently a helper in the Scratch Design Studio to talk with each other, discuss SDS-related topics, or just to be acknowledged as an SDS Helper! «
+> This group allows everyone who has previously been a helper or is currently a helper in the Scratch Design Studio to talk with each other, discuss SDS-related topics, or just to be acknowledged as an SDS Helper!
 
 ### News: 
 
 
 #### ➼The current SDS: [Underground](https://scratch.mit.edu/studios/31865836)
 
-[<img width="427" alt="Screen Shot 2022-07-13 at 9 05 53 PM" src="https://user-images.githubusercontent.com/105017592/178863332-91948b7e-05b7-43b6-9294-a87bda79f61b.png">](https://scratch.mit.edu/studios/31865836/)
+[![62cde0422528d6 93957103Processed_1_55](https://user-images.githubusercontent.com/105017592/180339848-50bd865a-0e9f-4ffa-bef5-18e99a268793.png)](https://scratch.mit.edu/studios/31865836/)
+
 
 
 
