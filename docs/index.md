@@ -38,7 +38,7 @@ We are a community of past and present SDS Helpers
 
 ### Contributers/User Role
 
-#### Managers:
+#### 📊 Managers:
 [![67144386_60x60_1_5_28](https://user-images.githubusercontent.com/105017592/180075895-3ea5677f-4739-4688-9671-2a48e17e59be.png)](https://scratch.mit.edu/users/MaterArc/)
 [MaterArc](https://scratch.mit.edu/users/MaterArc/) - Owner and Founder of SDS Helpers
 
@@ -55,7 +55,7 @@ We are a community of past and present SDS Helpers
 [ScratchTag-](https://scratch.mit.edu/users/ScratchTag-/)  - SDS Curator
 
 
-#### Contributors:
+#### ✏️ Contributors:
 
 [![Screenshot_2022-05-07_2 58 08_PM_3_48](https://user-images.githubusercontent.com/105017592/167268269-83ba2365-8beb-4c50-936a-947de93dde97.png)](https://scratch.mit.edu/users/leahcimto/)
 [leahcimto](https://scratch.mit.edu/users/leahcimto/) - SDS Curator and Website Contributor
@@ -63,6 +63,15 @@ We are a community of past and present SDS Helpers
 
 [![84839537_60x60_28](https://user-images.githubusercontent.com/105017592/180089695-1b66a93b-99eb-440e-ad78-b906bddcfa1a.png)](https://scratch.mit.edu/users/adzboy/)
 [Adzboy](https://scratch.mit.edu/users/adzboy/) - SDS Helper and Website Contributor 
+
+
+#### 👥 SDS Helpers:
+[![61189255_90x90_2_17](https://user-images.githubusercontent.com/105017592/180336559-c4794cd5-1a95-46aa-8378-e8a564dae3a2.png)](https://scratch.mit.edu/users/horsegirltg/)
+[HorsegirlTG](https://scratch.mit.edu/users/HorseGirlTG/) - SDS Helper
+
+
+[![72087790_90x90_1_19](https://user-images.githubusercontent.com/105017592/180336920-638341e4-9559-4635-b98b-cc5ed9f350a3.jpeg)](https://scratch.mit.edu/users/-ScratchDesign-/)
+[-ScratchDesign-](https://scratch.mit.edu/users/-ScratchDesign-/) - SDS Helper
 
 ***Note: This is not an official Scratch Team website, and is not run or endorsed by any of its members.***
 
