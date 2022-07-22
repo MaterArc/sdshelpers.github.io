@@ -37,7 +37,7 @@ We are a community of past and present SDS Helpers
 
 
 ### Contributers/User Role
-
+-------------------------------------------------
 #### 📊 Managers:
 [![67144386_60x60_1_5_28](https://user-images.githubusercontent.com/105017592/180075895-3ea5677f-4739-4688-9671-2a48e17e59be.png)](https://scratch.mit.edu/users/MaterArc/)
 [MaterArc](https://scratch.mit.edu/users/MaterArc/) - Owner and Founder of SDS Helpers
