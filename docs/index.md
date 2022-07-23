@@ -66,6 +66,10 @@ We are a community of past and present SDS Helpers
 [-ScratchDesign-](https://scratch.mit.edu/users/-ScratchDesign-/) - SDS Helper
 
 
+[![75423444_90x90_1_18](https://user-images.githubusercontent.com/105017592/180614734-2f6475a9-4344-456a-beba-e56965d953ba.png)](https://scratch.mit.edu/users/Muffin_pie/)
+[Muffin_pie](https://scratch.mit.edu/users/Muffin_pie/) - SDS Helper
+
+
 
 #### ✏️ Contributors:
 
