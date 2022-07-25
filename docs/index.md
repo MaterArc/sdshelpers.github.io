@@ -39,7 +39,7 @@ We are a community of past and present SDS Helpers
 
 ### Contributers/User Role
 -------------------------------------------------
-#### 📊 Managers:
+#### 📊 Managers (4) :
 [![67144386_60x60_1_5_28](https://user-images.githubusercontent.com/105017592/180075895-3ea5677f-4739-4688-9671-2a48e17e59be.png)](https://scratch.mit.edu/users/MaterArc/)
 [MaterArc](https://scratch.mit.edu/users/MaterArc/) - Owner and Founder of SDS Helpers
 
@@ -57,7 +57,7 @@ We are a community of past and present SDS Helpers
 
 
 
-#### 👥 SDS Helpers:
+#### 👥 SDS Helpers (8) :
 [![61189255_90x90_2_17](https://user-images.githubusercontent.com/105017592/180336559-c4794cd5-1a95-46aa-8378-e8a564dae3a2.png)](https://scratch.mit.edu/users/horsegirltg/)
 [HorsegirlTG](https://scratch.mit.edu/users/HorseGirlTG/) - SDS Helper
 
@@ -70,8 +70,31 @@ We are a community of past and present SDS Helpers
 [Muffin_pie](https://scratch.mit.edu/users/Muffin_pie/) - SDS Helper
 
 
+[![74326749_90x90_18](https://user-images.githubusercontent.com/105017592/180878275-b188986f-5a7d-48ed-b0ba-6f5945ddc658.jpeg)
+](https://scratch.mit.edu/users/Aloeheart6/)
+[Aloeheart6](https://scratch.mit.edu/users/Aloeheart6/) - SDS Helper
 
-#### ✏️ Contributors:
+
+[![30667759_90x90_18](https://user-images.githubusercontent.com/105017592/180878492-3f8a439b-7691-4d87-b817-c5463a225a4c.png)
+](https://scratch.mit.edu/users/-LegendGaming-/)
+[-LegendGaming-](https://scratch.mit.edu/users/-LegendGaming-/) - SDS Helper
+
+
+[![68588615_90x90_18](https://user-images.githubusercontent.com/105017592/180878729-d1b0ec89-2b6c-4344-a025-cc7a5a79ac9c.png)
+](https://scratch.mit.edu/users/TheDogLover796/)
+[TheDogLover796](https://scratch.mit.edu/users/TheDogLover796/) - SDS Helper
+
+
+[![65162879_90x90_18](https://user-images.githubusercontent.com/105017592/180879019-985cbf66-8b66-4456-9f6f-7b4cd30d6210.png)
+](https://scratch.mit.edu/users/dwseoh127/)
+[dwseoh127](https://scratch.mit.edu/users/dwseoh127/) - SDS Helper
+
+
+[![82961660_90x90_18](https://user-images.githubusercontent.com/105017592/180879224-59ddfc98-e526-408e-b826-ea1fc91123a8.png)
+](https://scratch.mit.edu/users/brrp/)
+[brrp](https://scratch.mit.edu/users/brrp/) - SDS Helper
+
+#### ✏️ Contributors (2) :
 
 [![Screenshot_2022-05-07_2 58 08_PM_3_48](https://user-images.githubusercontent.com/105017592/167268269-83ba2365-8beb-4c50-936a-947de93dde97.png)](https://scratch.mit.edu/users/leahcimto/)
 [leahcimto](https://scratch.mit.edu/users/leahcimto/) - SDS Curator and Website Contributor
