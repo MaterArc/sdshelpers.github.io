@@ -94,6 +94,9 @@ We are a community of past and present SDS Helpers
 ](https://scratch.mit.edu/users/brrp/)
 [brrp](https://scratch.mit.edu/users/brrp/) - SDS Helper
 
+ [<img width="12" alt="Screen_Shot_2022-07-30_at_9 47 37_AM_1_29" src="https://user-images.githubusercontent.com/105017592/181917442-3a0b511c-e9a9-457e-8f62-381417f6a338.png">](https://scratch.mit.edu/users/sihan666666/)
+[sihan666666](https://scratch.mit.edu/users/sihan666666/) - SDS Helper
+
 #### ✏️ Contributors (2) :
 
 [![Screenshot_2022-05-07_2 58 08_PM_3_48](https://user-images.githubusercontent.com/105017592/167268269-83ba2365-8beb-4c50-936a-947de93dde97.png)](https://scratch.mit.edu/users/leahcimto/)
